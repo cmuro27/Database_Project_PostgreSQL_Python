@@ -9,6 +9,6 @@ The steps followed:
 
 <div class="row">
   <div class="column" align="center">
-    <img src="https://github.com/cmuro27/Database_Project_PostgreSQL_Python/blob/main/diagram_normalization.png" height="180" style="width:32%">
+    <img src="https://github.com/cmuro27/Database_Project_PostgreSQL_Python/blob/main/diagram_normalization.png" height="2400" style="width:72%">
   </div>
 </div>
